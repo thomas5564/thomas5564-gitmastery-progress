@@ -43,15 +43,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1755484401.342612,
-    "completed_at": 1755484402.034677,
-    "comments": [
-      "You should have merged feature/dashboard next.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
